@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Noomachine</title>
+  <desc id="desc">A circular Newton's cradle used as a ritual seal for receive, pause, and return.</desc>
+  <rect width="240" height="240" fill="#060606"/>
+  <circle cx="120" cy="120" r="88" fill="none" stroke="#d8c48d" stroke-width="2.4" opacity=".82"/>
+  <circle cx="120" cy="120" r="42" fill="none" stroke="#e8e4de" stroke-width="1.4" opacity=".34"/>
+  <path d="M120 32v42M120 166v42M32 120h42M166 120h42" fill="none" stroke="#8bd8cf" stroke-width="2.2" stroke-linecap="round" opacity=".7"/>
+  <path d="M57.8 57.8l29.7 29.7M152.5 152.5l29.7 29.7M182.2 57.8l-29.7 29.7M87.5 152.5l-29.7 29.7" fill="none" stroke="#e8e4de" stroke-width="1.4" stroke-linecap="round" opacity=".36"/>
+  <g fill="#060606" stroke="#e8e4de" stroke-width="2">
+    <circle cx="120" cy="32" r="9"/>
+    <circle cx="182.2" cy="57.8" r="9"/>
+    <circle cx="208" cy="120" r="9"/>
+    <circle cx="182.2" cy="182.2" r="9"/>
+    <circle cx="120" cy="208" r="9"/>
+    <circle cx="57.8" cy="182.2" r="9"/>
+    <circle cx="32" cy="120" r="9"/>
+    <circle cx="57.8" cy="57.8" r="9"/>
+  </g>
+  <circle cx="120" cy="120" r="11" fill="#e8e4de"/>
+  <circle cx="120" cy="32" r="7" fill="#8bd8cf"/>
+  <path d="M124,37 Q138,50 122,76 Q128,55 120,38 Z" fill="#d8c48d"/>
+</svg>
